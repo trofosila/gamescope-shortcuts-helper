@@ -6,6 +6,9 @@ https://archlinux.org/packages/extra/x86_64/gamescope/
 `gamescope-shortcuts` in AUR:  
 https://aur.archlinux.org/packages/gamescope-shortcuts
 
+v3-0001-always-send-ctrl-1-2-to-steam-s-wayland-session.patch:  
+https://github.com/hhd-dev/handheld-gamescope/blob/master/v3-0001-always-send-ctrl-1-2-to-steam-s-wayland-session.patch
+
 ### Clone `gamescope-shortcuts` PKGBUILD repo
 ```
 git clone https://aur.archlinux.org/gamescope-shortcuts.git
