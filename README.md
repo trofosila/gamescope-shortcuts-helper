@@ -26,3 +26,13 @@ git merge upstream/main master
 ```
 git push -u publish master
 ```
+
+### Remove official gamescope package without its dependencies
+```
+sudo pacman -Rd --nodeps gamescope
+```
+
+### Install gamescope-shortcuts
+```
+yay -S --needed gamescope-shortcuts
+```
