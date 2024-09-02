@@ -1,5 +1,9 @@
 # gamescope-shortcuts-helper
 
+Official `gamescope` package https://archlinux.org/packages/extra/x86_64/gamescope/
+
+`gamescope-shortcuts` in AUR https://aur.archlinux.org/packages/gamescope-shortcuts
+
 ### Clone
 ```
 git clone https://aur.archlinux.org/gamescope-shortcuts.git
